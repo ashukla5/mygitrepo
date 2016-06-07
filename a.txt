@@ -1,2 +1,0 @@
-ECHO is on.
-Hi I am editing this file to test git pull.
